@@ -1,7 +1,7 @@
 # ReloadGUI
  OpenGL based GUI
 
-### Important: 
+### Important
 #### You need to create two compiler configurations inside Code::Blocks named:
 	- "GNU GCC Compiler X32" pointing to MinGW 32bits compiler toolchain
 	- "GNU GCC Compiler X64" pointing to MinGW 64bits compiler toolchain
