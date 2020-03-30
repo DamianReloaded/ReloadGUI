@@ -1,9 +1,7 @@
-#include <iostream>
-
-using namespace std;
+#include <reload/application.h>
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    reload::window();
+    return reload::application().run();
 }

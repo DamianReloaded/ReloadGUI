@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1585529227 source:/home/damian/coding/workspace/ReloadGUI/source/main.cpp
+	<reload/application.h>
+
+1585527970 /home/damian/coding/workspace/ReloadGUI/source/reload/application.h
+	<reload/window.h>
+
+1585526054 source:/home/damian/coding/workspace/ReloadGUI/source/reload/application.cpp
+	<reload/application.h>
+
+1585527791 source:/home/damian/coding/workspace/ReloadGUI/source/reload/window.cpp
+	<reload/window.h>
+	<window.implementation.h>
+
+1585527186 /home/damian/coding/workspace/ReloadGUI/source/reload/window.h
+	<memory>
+
+1585530558 /home/damian/coding/workspace/ReloadGUI/source/reload/platform/linux/window.implementation.h
+	<reload/window.h>
+	<X11/Xlib.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	<deque>
+
+1585529204 source:/home/damian/coding/workspace/ReloadGUI/source/reload/platform/linux/window.implementation.cpp
+	<window.implementation.h>
+	<iostream>
+
+1501500339 /home/damian/coding/workspace/ReloadGUI/source/dependencies/glew-2.1.0/include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1501500339 source:/home/damian/coding/workspace/ReloadGUI/source/dependencies/glew-2.1.0/src/glew.c
+	<GL/glew.h>
+	<GL/osmesa.h>
+	<GL/eglew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1501500339 /home/damian/coding/workspace/ReloadGUI/source/dependencies/glew-2.1.0/include/GL/eglew.h
+	<sys/types.h>
+	<KHR/khrplatform.h>
+	<EGL/eglplatform.h>
+	<GL/glew.h>
+
+1501500339 /home/damian/coding/workspace/ReloadGUI/source/dependencies/glew-2.1.0/include/GL/wglew.h
+	<windows.h>
+
+1501500339 /home/damian/coding/workspace/ReloadGUI/source/dependencies/glew-2.1.0/include/GL/glxew.h
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xmd.h>
+	<GL/glew.h>
+
+1501500339 source:/home/damian/coding/workspace/ReloadGUI/source/dependencies/glew-2.1.0/src/glewinfo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	<GL/eglew.h>
+	<GL/osmesa.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<AvailabilityMacros.h>
+	<GL/Regal.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/CGLTypes.h>
+
