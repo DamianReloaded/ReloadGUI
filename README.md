@@ -1,2 +1,2 @@
 # ReloadGUI
- OpenGL based GUI
+OpenGL based GUI
